@@ -1,4 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Projects including secrets
+# 22-starting-project/src/components/Auth/AuthForm.js
+09-time-to-practice-starting-code
+22-starting-project
 
 # dependencies
 /*/node_modules
