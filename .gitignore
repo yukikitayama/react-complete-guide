@@ -6,6 +6,9 @@
 22-starting-project/src/components/Profile/ProfileForm.js
 09-time-to-practice-starting-code
 23-onwards-to-a-bigger-project-starting-project/.next/
+# 23-onwards-to-a-bigger-project-starting-project/pages/index.js
+# 23-onwards-to-a-bigger-project-starting-project/pages/api/new-meetup.js
+23-onwards-to-a-bigger-project-starting-project/pages/
 
 # dependencies
 /*/node_modules
