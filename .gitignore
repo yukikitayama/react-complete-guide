@@ -9,6 +9,9 @@
 # 23-onwards-to-a-bigger-project-starting-project/pages/index.js
 # 23-onwards-to-a-bigger-project-starting-project/pages/api/new-meetup.js
 23-onwards-to-a-bigger-project-starting-project/pages/
+# Firebase endpoint
+hooks-01-starting-project/src/components/Ingredients/Ingredients.js
+hooks-01-starting-project/src/components/Ingredients/Search.js
 
 # dependencies
 /*/node_modules
